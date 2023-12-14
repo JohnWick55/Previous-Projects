@@ -1,5 +1,1 @@
 Ennek a gyökérmappának a htdocs mappában kell lennie
-
-Rendszergazda
-Felhasználónév: Admin01
-Jelszó: Admin1234
